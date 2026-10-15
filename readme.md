@@ -27,3 +27,7 @@ Pomysły (fundamentalne oraz opcjonalne, jak potencjalnie może wyglądać gra):
 - tryb free play
 - przewożenie pasażerów
 - arena
+
+Wykorzystanie GET i POST:
+- GET: wybór pojazdu i mapy, szczegóły danego pojazdu/mapy
+- POST: logowanie użytkowników [?], poruszanie się po mapie, wyniki wyścigu
