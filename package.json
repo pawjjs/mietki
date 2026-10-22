@@ -1,5 +1,5 @@
 {
-  "name": "mietki",
+  "name": "ciezka-jazda",
   "version": "1.0.0",
   "description": "Grupa: Mietki",
   "homepage": "https://github.com/pawjjs/mietki#readme",
@@ -13,8 +13,5 @@
   "license": "ISC",
   "author": "",
   "type": "module",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  "main": "index.js"
 }
