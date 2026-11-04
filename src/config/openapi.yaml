@@ -54,10 +54,12 @@ components:
       type: object
       required:
         - id
+        - ownerId
         - name
         - maxPlayers
         - mapId
         - players
+        - createdAt
         - status
       properties:
         id:
