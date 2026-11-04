@@ -1,7 +1,7 @@
 import { Router } from "express";
 import { body, param, query, validationResult } from "express-validator";
-import { getRoom, createRoom } from "../controllers/roomsController.js";
-import { handleValidationErrors } from "../middleware/handleValidationErrors.js";
+import { getRoom, createRoom } from "./roomsController.js";
+import { handleValidationErrors } from "../../middleware/handleValidationErrors.js";
 
 const router = Router();
 

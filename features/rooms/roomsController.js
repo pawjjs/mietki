@@ -1,4 +1,4 @@
-import * as roomService from "../services/roomService.js";
+import * as roomService from "./roomService.js";
 
 export function getRoom(req, res) {
     const id = Number(req.params.id);

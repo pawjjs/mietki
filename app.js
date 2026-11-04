@@ -2,7 +2,7 @@ import express from "express";
 import swaggerUi from "swagger-ui-express";
 import YAML from "yaml";
 import { readFileSync } from "node:fs";
-import roomsRouter from "./routes/rooms.js";
+import roomsRouter from "./features/rooms/rooms.js";
 const app = express();
 app.use(express.json());
 // Wczytanie specyfikacji OpenAPI
