@@ -9,6 +9,7 @@ Członkowie:
 - Maciej Kułakowski
 - Roman Saienko
 - Igor Nalewajko
+- Jakub Borkowski
 
 Technologia: Silnik 3D three.js
 
