@@ -19,6 +19,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "three": "^0.186.1",
     "swagger-ui-express": "^5.0.1",
     "yaml": "^2.9.1"
 =======
