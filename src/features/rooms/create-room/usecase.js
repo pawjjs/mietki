@@ -4,7 +4,7 @@ import {saveRoom} from '../repository.js';
 export function createRoom(input) {
     const room = {
         id: randomUUID(),
-        ownerId: null, // No authentication yet so its temporarily null
+        hostId: null, // No authentication yet so its temporarily null
         name: input.name,
         maxPlayers: input.maxPlayers,
         mapId: null,
