@@ -48,13 +48,13 @@ components:
         maxPlayers:
           type: integer
           minimum: 2
-          maximum: 16
+          maximum: 8
           default: 4
     Room:
       type: object
       required:
         - id
-        - ownerId
+        - hostId
         - name
         - maxPlayers
         - mapId
