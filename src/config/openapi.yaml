@@ -48,8 +48,8 @@ components:
         maxPlayers:
           type: integer
           minimum: 2
-          maximum: 8
-          default: 4
+          maximum: 16
+          default: 8
     Room:
       type: object
       required:
